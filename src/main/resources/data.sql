@@ -1,0 +1,1 @@
+insert into USER_SERVICE values(100,'Appa');
